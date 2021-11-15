@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @terrellhu
-- 👀 [myblog](www.yarntech.cn)
+- 👀 [myblog](https://www.yarntech.cn)
